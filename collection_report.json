@@ -1,0 +1,14 @@
+{
+  "completed": [
+    {
+      "target": "aesop",
+      "source_url": "https://www.instagram.com/aesop/",
+      "eligible_posts": 212,
+      "posts_saved": 200,
+      "images_saved": 726,
+      "comments_saved": 0,
+      "posts_file": "/Users/leungchikit/Documents/Deep learning/Grp Project/pavel/InstaScrapper/instagram_brand_data/posts/aesop_posts.json"
+    }
+  ],
+  "errors": []
+}
